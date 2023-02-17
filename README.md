@@ -79,7 +79,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://danielochuba.github.io/HTML-basic-JavaScript-Capstone/)
+- [Live Demo Link](https://danielochuba.github.io/Capstone-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
